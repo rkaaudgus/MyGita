@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
      
         print("Hellow")
+        //서버에 있는 것으로 모두 돌아온다.
+        
     }
 
 
